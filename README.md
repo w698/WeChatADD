@@ -7,3 +7,5 @@ WeChatADD-微信多开工具-Windows
 
 
 > 这是一个利用命令行批量启动工具，仅供个人使用禁止售卖和恶意宣传。
+
+下载链接：https://github.com/w698/WeChatADD/releases
