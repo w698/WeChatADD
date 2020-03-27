@@ -6,6 +6,6 @@ WeChatADD-微信多开工具-Windows
 3.拷贝微信安装路径到如下第一个输入框。
 
 
-> 这是一个利用命令行批量启动工具，仅供个人使用禁止售卖和恶意宣传。
+> 这是一个利用命令行批量启动工具。
 
 下载链接：https://github.com/w698/WeChatADD/releases
